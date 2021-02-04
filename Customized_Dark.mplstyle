@@ -39,8 +39,8 @@ boxplot.whiskerprops.color: white
 # PERSONALIZED CUSTOMIZATIONS
 
 # AXES
-axes.titlesize : 20
-axes.labelsize : 16
+axes.titlesize : 24
+axes.labelsize : 20
 
 # GRID
 axes.grid : False
@@ -48,7 +48,7 @@ grid.linewidth : 0.6
 
 # LINES
 lines.linewidth : 5
-
+lines.markersize : 10
 
 # TICKS
 xtick.labelsize : 16
