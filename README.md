@@ -7,6 +7,8 @@ Welcome to the Ultimate Course for learning the core concepts of Machine Learnin
 
 ## **Basic Utility Libraries**
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khanfarhan10/deepbedmap/)
+
 Today we will be Exploring the **_Power of Libraries_**, and Implementing **_Customized Utility Functions_**.
 
 
