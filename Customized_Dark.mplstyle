@@ -1,0 +1,61 @@
+# MATPLOTLIB STYLE SHEET for better DATA VIZ
+# Created by Heloise (https://github.com/HeloiseS/style_sheet)
+# Modified by Farhan Hai Khan
+# To check more avaialble options see:
+# https://matplotlib.org/tutorials/introductory/customizing.html
+
+# Matplotlib Dark Background Styles
+# Original : https://github.com/matplotlib/matplotlib/blob/master/lib/matplotlib/mpl-data/stylelib/dark_background.mplstyle
+# Set black background default line colors to white.
+
+lines.color: white
+patch.edgecolor: white
+
+text.color: white
+
+axes.facecolor: black
+axes.edgecolor: white
+axes.labelcolor: white
+axes.prop_cycle: cycler('color', ['8dd3c7', 'feffb3', 'bfbbd9', 'fa8174', '81b1d2', 'fdb462', 'b3de69', 'bc82bd', 'ccebc4', 'ffed6f'])
+
+xtick.color: white
+ytick.color: white
+
+grid.color: white
+
+figure.facecolor: black
+figure.edgecolor: black
+
+savefig.facecolor: black
+savefig.edgecolor: black
+
+### Boxplots
+boxplot.boxprops.color: white
+boxplot.capprops.color: white
+boxplot.flierprops.color: white
+boxplot.flierprops.markeredgecolor: white
+boxplot.whiskerprops.color: white
+
+# PERSONALIZED CUSTOMIZATIONS
+
+# AXES
+axes.titlesize : 20
+axes.labelsize : 16
+
+# GRID
+axes.grid : False
+grid.linewidth : 0.6
+
+# LINES
+lines.linewidth : 5
+
+
+# TICKS
+xtick.labelsize : 16
+ytick.labelsize : 16
+
+
+# FIGURE OUTPUT 
+figure.figsize  : 15, 8
+figure.dpi : 300
+savefig.dpi : 300
