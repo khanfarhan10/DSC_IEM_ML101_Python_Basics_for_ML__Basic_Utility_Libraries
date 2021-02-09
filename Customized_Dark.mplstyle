@@ -56,6 +56,6 @@ ytick.labelsize : 16
 
 
 # FIGURE OUTPUT 
-figure.figsize  : 15, 8
+figure.figsize  : 10, 5
 figure.dpi : 300
 savefig.dpi : 300
